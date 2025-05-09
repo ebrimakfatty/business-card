@@ -1,0 +1,16 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dija{
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    width:400px;
+    margin:0  auto;
+    text-align: center;
+    text-decoration-color: black;
+    background-color:lightblue;
+    border-bottom: 6px solid #d8cefe;
+}
